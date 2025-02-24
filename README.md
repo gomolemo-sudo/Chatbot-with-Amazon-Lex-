@@ -6,7 +6,7 @@ This project is a chatbot built with **Amazon Lex**, an AWS service for creating
 ### **Features**  
 - 📌 **Intents**: Custom intents created for recognizing different user interactions  
 - 📌 **Fallback Handling**: Configured **FallbackIntent** for unrecognized inputs  
-- 📌 **Intent Variations**: Improved accuracy by adding multiple input variations  
+- 📌 **Intent Variations**: Improved accuracy by adding multiple-input variations  
 - 📌 **AWS IAM Integration**: Assigned minimal permissions for secure API access  
 
 ### **Lessons Learned**  
@@ -17,5 +17,8 @@ One of the biggest takeaways was the importance of **fine-tuning intent variatio
 2️⃣ Define intents and sample utterances  
 3️⃣ Configure **IAM roles** for permissions  
 4️⃣ Deploy and test the chatbot  
-  
+
+  [P1 - Build a Chatbot with Amazon Lex.pdf](https://github.com/user-attachments/files/18938855/P1.-.Build.a.Chatbot.with.Amazon.Lex.pdf)
+
+
 🔗 www.linkedin.com/in/gomolemo-hlatshwayo-2b844522a  
